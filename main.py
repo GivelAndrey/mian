@@ -25,3 +25,4 @@ async def rand(ctx, a, b):
     await ctx.send(c)
 
 bot.run("")
+# )
